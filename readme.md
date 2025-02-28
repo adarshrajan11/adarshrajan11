@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-# Hi there, I'm Adarsh Rajan! 👋  
+#### Hi there, I'm Adarsh Rajan! 👋  
 
 ### 🚀 About Me  
 I'm a **self-learned web developer** passionate about **React, TypeScript, and modern web technologies**.  
