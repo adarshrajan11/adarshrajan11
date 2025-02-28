@@ -15,6 +15,7 @@ With a background in **BCA** and experience as a **software engineer**, I love s
 - 🛠️ Open Source Contributor  
 
 ### 🔥 My GitHub Stats  
+### :fire: My Stats :
 ![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshrajan11&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrajan11&layout=compact&theme=radical)  
 
